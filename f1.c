@@ -2,5 +2,5 @@
 void main (void)
 {
 printf ("Bonjour le monde !\n");
-printf ("Ca va bien ?\n");
+printf ("Ca va bien ? La patate ?\n");
 }
